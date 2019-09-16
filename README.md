@@ -11,7 +11,7 @@
 
 ## Installing  
 
-* git clone <'https://github.com/impiy511/CHESS.git'> 
+* git clone https://github.com/impiy511/CHESS.git
 * cd chess
 * python3 game.py
   

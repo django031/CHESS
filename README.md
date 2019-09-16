@@ -11,8 +11,8 @@
 
 ## Installing  
 
-* git clone <'repo'> 
-* cd chess_board
+* git clone <'https://github.com/impiy511/CHESS.git'> 
+* cd chess
 * python3 game.py
   
 ## Running the test  

@@ -1,3 +1,5 @@
+# CHESS GAME
+
 * Developed a chess game to represent the board in such a way that the players can make moves by typing the move in the console by checking the validity of the move and give the appropriate response on the command line. 
 
 ## Getting Started
@@ -28,9 +30,9 @@
 
 ## How to use
 
-* The game begins by Player1 by entering the coordinates of the pieces to make his first move. 
 * If player1 wants to move 'pawn' piece placed at (1,2) to (2,2) he just has to enter these coordinates in the console. This would mark   the first move of Player1. 
-* Similarly, Player2 can begin his turn by moving any piece of his choicee.
+* Similarly, Player2 can begin his turn by moving any piece of his choice.
+* You can exit the game from the console by entering input as [-1] 
 
 ## Authors
 
